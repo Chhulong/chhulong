@@ -1,4 +1,6 @@
-workflow_dispatch
+name: CI
+
+on: workflow_dispatch
 
 jobs:
 
